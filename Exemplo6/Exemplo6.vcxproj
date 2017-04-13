@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6EF00494-6A6E-4B90-A294-04EDF36B7FEB}</ProjectGuid>
+    <ProjectGuid>{7F6F362C-3F7A-4FDB-9FF9-49D3CA9DCF84}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Exemplo1</RootNamespace>
+    <RootNamespace>Exemplo6</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
